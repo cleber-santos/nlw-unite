@@ -9,7 +9,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="https://github.com/cleber-santos/nlw-unite/blob/main/LICENSE">Licença</a>
 </p>
 
 <p align="center">
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+Nesse projeto desenvolvi junto as aulas com o professor Mayk Brito a versão simplificada de um sistema de check-in para eventos presenciais. Trabalhamos bastante no Javascript criando varias funções e criamos uma layout simples mas muito agradavel no CSS.
